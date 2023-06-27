@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @danil-baranovskyi
-- 👀 I’m interested in web-develoing. I am not sure what choose Back or Front-End. I want to became a good Full-Stack developer. It is exciting!!!
-- 🌱 I’m currently learning JS, React Js, and improve my knowlege in HTML/CSS, especially valid HTML/CSS and availability.
-- 💞️ I’m looking to collaborate on with some company where i can studying and get good knowledge and interesting projects
-- 📫 How to reach me:
+A man who fell in love with taking part of developing and improving different products and feeling that you are not a watcher or reader but author that bring useful and exiting things to this world.
+
+I like to give everything i can to create best app, web-site, sdk whatever that needs to be written with code and can help people and bussiness.
+
+My main stack for doing such things are Nodes.js/Koa.js, MongoDB/Mongoose React.js/Next.js. Deep knowlendge in developing with native js/html/css(have experience with building web sdk).
+
+1 year of building apps for Shopify. Developed extensions, worked with Shopify REST/GraphQL Api.
+
+Nowadays, imroving my skills and knowlange in Back-end refferal TS/Nest.js/Docker.
+
+How to reach me:
       - My phone: +380952032884;
       - My email: danbaranovskyi@gmail.com
       
