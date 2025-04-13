@@ -1,17 +1,10 @@
-A man who fell in love with taking part of developing and improving different products and feeling that you are not a watcher or reader but author that bring useful and exiting things to this world.
+I focus on building apps, websites, SDKs, and tools that solve real problems and help businesses grow.
 
-I like to give everything i can to create best app, web-site, sdk whatever that needs to be written with code and can help people and bussiness.
+I work with Node.js/Koa.js, MongoDB/Mongoose, and React.js/Next.js, and have strong experience in native JavaScript, HTML, and CSS (including building web SDKs). I’ve also spent 1 year developing apps for Shopify, creating extensions and working with Shopify’s REST and GraphQL APIs.
 
-My main stack for doing such things are Nodes.js/Koa.js, MongoDB/Mongoose React.js/Next.js. Deep knowlendge in developing with native js/html/css(have experience with building web sdk).
+Additionally, I’ve built enterprise-level applications using Angular, RxJS, and Material-UI. I enjoy working with Angular for its structure and scalability, and I’ve used it to deliver clean, maintainable, and efficient solutions.
 
-1 year of building apps for Shopify. Developed extensions, worked with Shopify REST/GraphQL Api.
-
-Nowadays, imroving my skills and knowlange in Back-end refferal TS/Nest.js/Docker.
-
-How to reach me:
-      - My phone: +380952032884;
-      - My email: danbaranovskyi@gmail.com
-      
+I’m always ready to put my skills to work and deliver results that matter. Let’s connect and build something great together!
 
 <!---
 danil-baranovskyi/danil-baranovskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
